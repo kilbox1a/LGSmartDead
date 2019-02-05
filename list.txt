@@ -1,6 +1,6 @@
-# KillLG
+# LGSmartDead
 #
-# Killing the garbage telemetry of LG
+# Killing the garbage telemetry of LG Smart TV's
 #
 127.0.0.1 localhost #IPv4 localhost
 ::1 localhost #IPv6 localhost
