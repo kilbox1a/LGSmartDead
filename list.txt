@@ -8,12 +8,12 @@
 # BAD SITES START HERE
 
 127.0.0.1   us.ibs.lgappstv.com
-127.0.0.1	aic-ngfts.lge.com
-127.0.0.1	snu.lge.com
-127.0.0.1	us.ibs.lgappstv.com
-127.0.0.1	ngfts.lge.com 
-127.0.0.1	lgtvonline.lge.com
-127.0.0.1	us.info.lgsmartad.com
+127.0.0.1   aic-ngfts.lge.com
+127.0.0.1   snu.lge.com
+127.0.0.1   us.ibs.lgappstv.com
+127.0.0.1   ngfts.lge.com 
+127.0.0.1   lgtvonline.lge.com
+127.0.0.1   us.info.lgsmartad.com
 127.0.0.1   coordinator-ta09-prod-211125741.us-east-1.elb.amazonaws.com
 127.0.0.1   us.tvsdp.lgeapi.com
 127.0.0.1   us.lgrecommends.lgappstv.com
