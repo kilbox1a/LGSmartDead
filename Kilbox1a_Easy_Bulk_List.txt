@@ -1,0 +1,25 @@
+https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
+https://mirror1.malwaredomains.com/files/justdomains
+http://sysctl.org/cameleon/hosts
+https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
+https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
+https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
+https://hosts-file.net/ad_servers.txt
+https://raw.githubusercontent.com/kilbox1a/LGSmartDead/master/list.txt
+https://raw.githubusercontent.com/StevenBlack/hosts/master/data/add.Spam/hosts
+https://raw.githubusercontent.com/StevenBlack/hosts/master/data/KADhosts/hosts
+https://adaway.org/hosts.txt
+https://v.firebog.net/hosts/AdguardDNS.txt
+https://v.firebog.net/hosts/Easylist.txt
+https://blocklist.kowabit.de/list.txt
+https://www.dshield.org/feeds/suspiciousdomains_Low.txt
+https://raw.githubusercontent.com/HorusTeknoloji/TR-PhishingList/master/url-lists.txt
+https://www.squidblacklist.org/downloads/dg-malicious.acl
+https://ransomwaretracker.abuse.ch/downloads/TL_C2_DOMBL.txt
+https://phishing.army/download/phishing_army_blocklist_extended.txt
+https://mirror.cedia.org.ec/malwaredomains/immortal_domains.txt
+_____________
+|    EASY   |
+|  BLOCKING |
+|    LIST   |
+|___________|
